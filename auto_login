@@ -3,7 +3,7 @@
 # Autologin by sutendi
 # Link github : https://github.com/dedisutendi
 # Copy ke folder Root OpenWrt
-# chmod 755 auto_login atau chmod +x auto_login 
+# chmod +x auto_login 
 # ./auto_login install
 # sh auto_login
 # GUI buka http://IP-ROUTER-ANDA/cgi-bin/register
